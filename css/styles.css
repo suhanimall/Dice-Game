@@ -1,0 +1,25 @@
+body{
+  background-color: #142F43;
+
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  color: #7FC8A9;
+  margin: 1% 25%;
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+  color: #7FC8A9;
+  font-size: 3rem;
+
+}
+
+div{
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  left: 30%;
+}
